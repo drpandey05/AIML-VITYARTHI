@@ -1,4 +1,3 @@
-# AIML-VITYARTHI
 Music Recommendation System
 
 This Music Recommendation System is a Python-based project designed to provide personalised song recommendations using a combination of content-based filtering, mood classification, and similarity scores derived from audio features. The system aims to be lightweight, easy to run on any compiler or IDE, and beginner-friendly for anyone learning about machine learning, data processing, or music analytics. It focuses on versatile input options, mood-based predictions, and modular code that can be extended with additional data sources or recommendation logic.
